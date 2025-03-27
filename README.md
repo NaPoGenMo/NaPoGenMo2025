@@ -1,4 +1,4 @@
-# NaPoGenMo2024
+# NaPoGenMo2025
 
 National Poetry Generation Month 2025 - based on an idea @hugovk [tweeted](https://twitter.com/hugovk/status/582991364889059330) on a whim.
 
